@@ -1,4 +1,0 @@
-
-#### EATABLES
-- [[POTION_HP]]
-- [[POTION_SPEED]]
