@@ -2,5 +2,5 @@ The game is yet nameless but will be a **Hero Arena Defense** where you control 
 
 The game will feature trinkets, different weapons and level-ups.
 
-![[SKETCH_HUD.png]]
-![[PROTO_ARENA]]
+![[draws/SKETCH_HUD.png]]
+![[draws/PROTO_ARENA]]
